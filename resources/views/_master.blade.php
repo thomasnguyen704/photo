@@ -18,12 +18,10 @@
 		<div class="container">
 			@yield('content')
 		</div>
-		<footer class="footer-bg">
+		<footer class="footer-bg text-center">
 			<div class="container">
 				<small> 
-					Thomas Nguyen <br>
-					thomasnguyen704@gmail.com <br>
-					All photos on this site are property Thomas Nguyen. Any use of the photographs on this site is prohibited without consent.
+					Thomas Nguyen | thomasnguyen704@gmail.com | All photos on this site are property Thomas Nguyen. Any use of the photographs on this site is prohibited without consent.
 				</small>
 			</div>
 		</footer>

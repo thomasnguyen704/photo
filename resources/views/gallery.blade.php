@@ -17,7 +17,9 @@
 
 @section('content')
 <div class="text-center">
-	<h1 class="page-header banner">Thomas Nguyen</h1>
+	<a href="/">
+		<h1 class="page-header banner a-link">Thomas Nguyen</h1>
+	</a>
 	<div id="nanoGallery1"></div>
 </div>
 @stop
