@@ -23,7 +23,7 @@
 
 <div class="vert-center text-center">
 	<h1 class="page-header banner">Thomas Nguyen</h1>
-	<p class="lead">My image gallery for DGMD E-10: Exposing Digital PhotographyFall 2015</p><br>
+	<p class="lead">My image gallery for DGMD E-10: Exposing Digital Photography - Fall 2015</p><br>
 	<a class="btn btn-lg btn-danger" href="/gallery" role="button">Enter</a>
 </div>
 @stop
